@@ -83,7 +83,6 @@ print(result)
     },
     "isCompanyEmail": true,
     "isFreeEmail": false,
-    "isDisposable": false,
     "checksum": 797
   }
 }
